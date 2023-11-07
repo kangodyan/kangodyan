@@ -16,7 +16,7 @@
 
 
 ![](https://img.shields.io/badge/Next.js-dee1e6?style=flat-square&logo=Next.js&logoColor=333333)
-![](https://img.shields.io/badge/NestJs-342fbe?style=flat-square&logo=nestjs&logoColor=ea2845)
+![](https://img.shields.io/badge/NestJS-342fbe?style=flat-square&logo=nestjs&logoColor=ea2845)
 ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -26,4 +26,12 @@
 ![](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Naccl&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Naccl's GitHub Stats"><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naccl&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+| &nbsp; | project | description | homepage | last commit
+| --- | --- | --- | --- | --- 
+|<a href="https://github.com/vercel/next.js"><img src="https://qiniu.panlore.top/any/nextjs-logo.png" height="16px" /></a> | [typeform-web](https://github.com/KangodYan/typeform-nextjs-kd) 🔥 | typeform项目 web 官网 | [`#typeform.panlore.top`](https://typeform.panlore.top) | [![GitHub last commit](https://img.shields.io/github/last-commit/KangodYan/typeform-nextjs-kd?style=flat&label=last)](https://github.com/KangodYan/typeform-nextjs-kd/commits)
+|<a href="https://github.com/vercel/next.js"><img src="https://qiniu.panlore.top/any/nextjs-logo.png" height="16px" /></a> | [tealamp-web](https://github.com/KangodYan/lamp-web-nextjs-3r-kd) 🔥 | 茶灯项目 web 官网 | [`#tealamp.panlore.top`](https://tealamp.panlore.top) | [![GitHub last commit](https://img.shields.io/github/last-commit/KangodYan/lamp-web-nextjs-3r-kd?style=flat&label=last)](https://github.com/KangodYan/lamp-web-nextjs-3r-kd/commits)
+|<img src="https://camo.githubusercontent.com/af62ae4dacc872199b52a4cb8a43e16214e2d68c70341b09e0dd713f10a4c676/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f7375726d6f6e2d6368696e612f7375726d6f6e2d6368696e61406d61696e2f69636f6e732f72656163742e737667" height="16px" /> | [tealamp-admin](https://github.com/KangodYan/lamp-react-3r-kd) | 茶灯项目 admin 后台网站 | [`#lamp.panlore.top`](https://lamp.panlore.top) | [![GitHub last commit](https://img.shields.io/github/last-commit/KangodYan/lamp-react-3r-kd?style=flat&label=last)](https://github.com/KangodYan/lamp-react-3r-kd/commits)
+|<a href="https://github.com/nestjs"><img src="https://cdn.jsdelivr.net/gh/surmon-china/surmon-china@main/icons/nestjs.svg" height="16px" /></a> | [tealamp-api](https://github.com/KangodYan/lamp-nestjs-3r-kd) | 茶灯项目 api 数据服务 | - | [![GitHub last commit](https://img.shields.io/github/last-commit/KangodYan/lamp-nestjs-3r-kd?style=flat&label=last)](https://github.com/KangodYan/lamp-nestjs-3r-kd/commits)
+
+
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=KangodYan&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Kangod's GitHub Stats"><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=KangodYan&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
