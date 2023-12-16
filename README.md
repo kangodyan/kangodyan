@@ -2,7 +2,7 @@
 
 :heart: :icecream: :strawberry: :watermelon: :lemon: :milk_glass: :coffee: :poultry_leg: :fries: :video_game: :computer: :notes: :moneybag:
 
-[![Kangod's Blog](https://img.shields.io/badge/Kangod's%20Blog-303030?style=flat-square&logo=Bloglovin&logoColor=ffffff)](https://panlore.top)
+[![Kangod's Blog](https://img.shields.io/badge/Kangod's%20Blog-303030?style=flat-square&logo=Bloglovin&logoColor=ffffff)](https://kangod.top)
 [![Telegram](https://img.shields.io/badge/t.me/KangodYan-17c0eb?style=flat-square&logo=Telegram)](https://t.me/KangodYan)
 [![Email](https://img.shields.io/badge/-kangod.yan@gmail.com-ea4335?style=flat-square&logo=Mail.Ru)](mailto:kangod.yan@gmail.com)
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangodyan%2Fkangodyan&count_bg=%2344CC11&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true)
